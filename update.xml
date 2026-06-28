@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='ebglpfhbieelkkbjldfacdelpjbpehek'>
-    <updatecheck codebase='https://raw.githubusercontent.com/synolyx-gitty/gmail-reminders-extension/main/gmail-reminders-extension.crx' version='1.0' />
+  <app appid='pkjjfeeklpkanfakamodcdkpbaimohhe'>
+    <updatecheck codebase='https://raw.githubusercontent.com/synolyx-gitty/gmail-reminders-extension.crx/main/gmail-reminders-extension.crx' version='1.0' />
   </app>
 </gupdate>
